@@ -54,7 +54,6 @@ linkedin-post-bot/
 ├── main.py               # Main automation runner
 ├── idea_generator.py          # AI project idea generation
 ├── notifier.py    # Sends messages to Telegram
-├── post_writer.py            # Prompt templates
 ├── scheduler.py          # Daily scheduling logic
 ├── .env                  # Environment variables
 ├── requirements.txt
