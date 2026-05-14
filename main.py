@@ -10,7 +10,7 @@ day = (today - start).days + 1
 
 def run():
     idea = generate_idea(day)
-    send_whatsapp(idea)
+    send_message(idea)
 
 
 
